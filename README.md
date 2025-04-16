@@ -12,7 +12,7 @@ Sockets Links.
 
 ![echo_code](https://github.com/user-attachments/assets/5dd7a9b4-3818-4c4c-97f9-9b4642ae46ba)
 
-## OUPUT
+## OUTPUT
 
 ![echo_terminal](https://github.com/user-attachments/assets/5bff83ad-b083-47e9-89cf-6e31deb50cdd)
 
